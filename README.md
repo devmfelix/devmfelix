@@ -18,4 +18,4 @@
 <img align="center" alt="bootstrap"src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </div><br>
 
-Sempre tive a curiosidade de aprender programação e estou a cada me desenvolvendo mais. 
+Sempre tive a curiosidade de aprender programação e estou a cada dia me desenvolvendo mais. 
