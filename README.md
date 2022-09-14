@@ -1,5 +1,5 @@
 ### Olá eu sou o Matheus Felix✋
-- 🎓 Estudante de Reactjs com Next e TypeScript
+- 🎓 Estudante de Java
 
 <div align="center">
   <a href="https://github.com/devmfelix">
