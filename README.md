@@ -1,5 +1,5 @@
 ### Olá eu sou o Matheus Felix✋
-- 🎓 Estudante de Java
+- 🎓 Estudante de Java e Javascript
 
 <div align="center">
   <a href="https://github.com/devmfelix">
