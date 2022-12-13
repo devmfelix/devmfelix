@@ -1,5 +1,6 @@
 ### Olá eu sou o Matheus Felix✋
-- 🎓 Estudante de Java e Javascript
+- 🎓 Estudante de Analise e desenvolvimento de sistemas pela Estácio
+- Linguagens que estou aprendendo e que ja desenvolvi alguns projetos: JAVASCRIPT, PHP, PYTHON.
 
 <div align="center">
   <a href="https://github.com/devmfelix">
@@ -12,11 +13,6 @@
 
 <div style="display: inline_block"><br>
 <img title="JavaScript" align="center" alt="JavaScript-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img title="TypeScript" align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img title="ReactJS" align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img title="HTML" align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img title="CSS" align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img title="NextJS" align="center" alt="Next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
 </div><br>
   
  ##
