@@ -1,5 +1,5 @@
 <!--suppress HtmlDeprecatedAttribute -->
-# Hello! 👋 Who am I? #
+# Olá Quem sou eu? #
 <div>
 <br/>
 - 🔭 Sou desenvolvedor Java, uso Android Studio para criar apps Android, trabalho com MySQL para gerenciar bancos de dados, e programo em Python para diversos projetos.<br/>
