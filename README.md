@@ -3,7 +3,7 @@
 <div>
 <br/>
 - 🔭 Sou desenvolvedor Java, uso Android Studio para criar apps Android, trabalho com MySQL para gerenciar bancos de dados, e programo em Python para diversos projetos.<br/>
-- 🌱 Proeficiência em Java, AndroidStudio, Python, MySQL, MongoDB, JavaScript, PostGree, GoogleCloud.<br/>
+- 🌱 Proeficiência em Html, CSS,Java, AndroidStudio, Python, MySQL, MongoDB, JavaScript, PostGree, GoogleCloud.<br/>
 - 👍 Experiência em Suporte tecnico em TI<br/>
 - 😍 Aprendendo sobre IA e fazendo projetos com ele.
 - 😉 Aos tempos livres gosto de desenhar.</br>
